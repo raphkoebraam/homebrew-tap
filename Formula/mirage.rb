@@ -1,8 +1,8 @@
 class Mirage < Formula
   desc "Manage Apple simulators by name, not UDID"
   homepage "https://github.com/raphkoebraam/Mirage"
-  url "https://github.com/raphkoebraam/Mirage/releases/download/v0.9.0/mirage-0.9.0-macos.tar.gz"
-  sha256 "99f3a05f7db3a61dc3fefe155709572d6c2764c592f07d99d73f0c319f169692"
+  url "https://github.com/raphkoebraam/Mirage/releases/download/v0.10.0/mirage-0.10.0-macos.tar.gz"
+  sha256 "712b828dbd5380039602838286068ebaf1e3d7c9cfe10156b315240b4d55673d"
   license "MIT"
 
   # The binary is built against the macOS 15 SDK and uses Synchronization.Mutex.
